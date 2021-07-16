@@ -1,4 +1,7 @@
 # GEM configuration
+![GitHub top language](https://img.shields.io/github/languages/top/aposin/gem-config.svg)
+[![CLA assistant](https://cla-assistant.io/readme/badge/aposin/gem-config)](https://cla-assistant.io/aposin/gem-config)
+[![GitHub](https://img.shields.io/github/license/aposin/gem-config.svg)](https://github.com/aposin/gem-config/blob/main/LICENSE)
 
 Example configuration files for GEM.
 Includes the configuration for the following association projects:
